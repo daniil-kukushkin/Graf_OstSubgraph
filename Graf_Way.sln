@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graf_Way", "Graf_Way\Graf_Way.vcxproj", "{F1D19241-097F-4C5B-B0D0-A7881988144C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D19241-097F-4C5B-B0D0-A7881988144C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1D19241-097F-4C5B-B0D0-A7881988144C}.Debug|Win32.Build.0 = Debug|Win32
+		{F1D19241-097F-4C5B-B0D0-A7881988144C}.Release|Win32.ActiveCfg = Release|Win32
+		{F1D19241-097F-4C5B-B0D0-A7881988144C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
